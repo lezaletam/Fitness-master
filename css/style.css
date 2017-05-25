@@ -288,6 +288,10 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		color:#333;
 	}
 
+
+.newColored{
+    color:black;
+}
 	.colored{
 		color: #8BC3A3;
 	}
