@@ -224,6 +224,16 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		margin:0 auto;
 	}
 
+    .h-descnew{
+		font-size:18px;
+		color: black;
+		font-weight: 100;
+		text-align: center;
+		margin:20px auto;
+		max-width: 900px;
+		line-height: 24px;
+	}
+
 	.h-desc{
 		font-size:18px;
 		color: white;
